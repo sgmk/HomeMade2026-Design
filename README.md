@@ -10,7 +10,7 @@ This directory contains the official design assets and graphical materials for *
 
 ## Credits
 
-- **Main Design, Giger Variant, and Logo by:** Helmi Hardian
+- **Main Design, Giger Variant, and Logo by:** [Helmi Hardian](https://bio-haha.github.io/sensewalking/) <img src="./Main_Design/Helim_Ugly.jpg" alt="Helmi" width="50" style="vertical-align: middle; margin-left: 10px;">
 - **Kuchen (Flyer) Design by:** PascalM
 
 ## Example Images
