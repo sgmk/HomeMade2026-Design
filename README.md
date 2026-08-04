@@ -22,7 +22,7 @@ Here are some preview images from the design collection:
 
 ### Giger Variant
 ![Home Made 2026 Giger 01](./Giger_Variant/home_made-2026-giger-01.png)
-![Home Made 2026 Giger Yellow](./Giger_Variant/Giger_yellow.png)
+![Home Made 2026 Giger Yellow (Blue Background)](./Giger_Variant/Giger_yellow_bllueback.png)
 
 ### Logo
 ![Home Made 2026 Logo 01](./Logo/home_made-2026-logo-01.png)
