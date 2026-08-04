@@ -27,7 +27,7 @@ Here are some preview images from the design collection:
 ![Home Made 2026 Logo 01](./Logo/home_made-2026-logo-01.png)
 
 ### Kuchen Flyer
-![Home Made 2026 Kuchen Flyer](./Kuchen/homemade2026flyer_pascal.svg)
+<img src="./Kuchen/homemade2026flyer_pascal.svg" alt="Home Made 2026 Kuchen Flyer" width="100%">
 
 ## Available Files & Formats
 
